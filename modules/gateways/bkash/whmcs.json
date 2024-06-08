@@ -1,0 +1,32 @@
+{
+    "schema": "1.0.0",
+    "type": "whmcs-gateways",
+    "name": "bkash",
+    "license": "MIT",
+    "category": "payments",
+    "description": {
+        "name": "bKash",
+        "tagline": "Accept bKash payments offline on WHMCS providing Make Payment or Send Money instructions.",
+        "long": "While setting up the module, enter your personal or merchant bKash number. Include clear `Make Payment` instructions for bKash merchant or `Send Money` for bKash personal. You must manually add the bKash transaction to the invoice.",
+        "features": [
+            "Open source",
+            "Lightweight",
+            "Easy to setup",
+            "Can be used for bKash personal, merchant & agent"
+        ]
+    },
+    "logo": {
+        "filename": "bkash-logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/github.com\/piprahost\/bkash-manual-whmcs",
+        "support_url": "https:\/\/github.com\/piprahost\/bkash-manual-whmcs\/issues",
+        "docs_url": "https:\/\/github.com\/piprahost\/bkash-manual-whmcs\/#readme"
+    },
+    "authors": [
+        {
+            "name": "Pipra Host",
+            "homepage": "https:\/\/piprahost.com"
+        }
+    ]
+}
